@@ -9,12 +9,11 @@ h3{
 }
 
 body{
-    background-color: black;
     color: white;
     margin: 0px;
-    /* background-image: url(media/gallery1.jpeg); */
-    /* background-repeat: no-repeat; */
-    /* background-size: contain; */
+    background-image: url(media/gallery1.jpeg);
+    background-size: contain;
+    background-attachment: fixed;
 }
 .outline{
     height: 5px;
