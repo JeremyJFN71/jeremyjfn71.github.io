@@ -74,12 +74,12 @@ body{
     background-color: rgb(161, 0, 0);
 }
 
-.search-bar{
+.search-wrapper{
     float: right;
     padding: 7.5px 0px;
 }
 
-.search-bar input{
+.search-wrapper input{
     height: 30px;
     padding: 0px 10px;
 }
